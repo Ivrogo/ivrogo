@@ -6,7 +6,7 @@ I recently graduated in Cross-Platform Application Development and I'm currently
 
 Skills: JAVA / SPRING / JS / HTML / CSS / LINUX / PYTHON
 
-- 🔭 I’m currently working on https://github.com/Ivrogo/ToDoList 
+- 🔭 I’m currently working on https://github.com/Ivrogo/ToDoAPIRest 
 - 🌱 I’m currently learning More Python 
 - 📫 How to reach me: irodriguez@ivrogo.com 
 
