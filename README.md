@@ -1,12 +1,13 @@
 ### Hola, soy Iván 👋
 
-Ingeniero de IA. Construyo agentes de IA y automatizaciones que llegan a producción, con controles: permisos mínimos, aprobación humana en lo que importa y registro de cada acción.
+Ingeniero de IA y ML. Construyo agentes de IA y automatizaciones que llegan a producción, con controles: permisos mínimos, aprobación humana en lo que importa y registro de cada acción.
 
 **La IA propone. Tú decides.**
 
 🔧 **Qué hago**
 - Agentes de IA con guardrails: allowlist de herramientas, confirmación verificada por el runtime y límites de presupuesto.
 - Automatización de procesos con n8n, Python y GitHub Actions.
+- Machine learning: modelos con PyTorch, desde los datos y el entrenamiento hasta la evaluación y el despliegue.
 - Flujos de desarrollo con agentes de código (spec, plan y gates antes de tocar main).
 
 📦 **Proyectos destacados**
