@@ -1,19 +1,19 @@
-### Hi there 👋, my name is Iván 
-#### I am a Software Developer and ML/AI Engineer
-![I am a Software Developer and ML/AI Engineer ](https://pbs.twimg.com/profile_banners/46926794/1685956040/1500x500)
+### Hola, soy Iván 👋
 
-I recently graduated in Cross-Platform Application Development and I'm currently immersed in multiple personal projects while trying to find a suitable job for me. I'm a really methodical person and I'm always giving the 200% of me to get things done! When it comes to developing, I really enjoy it, I genuinely can sit all day researching and coding and time will fly by like nothing.
+Ingeniero de IA. Construyo agentes de IA y automatizaciones que llegan a producción, con controles: permisos mínimos, aprobación humana en lo que importa y registro de cada acción.
 
-ML/AI Engineer
+**La IA propone. Tú decides.**
 
-Skills: JAVA / SPRING / JS / HTML / CSS / LINUX / PYTHON / TAILWIND / NEXT.JS
+🔧 **Qué hago**
+- Agentes de IA con guardrails: allowlist de herramientas, confirmación verificada por el runtime y límites de presupuesto.
+- Automatización de procesos con n8n, Python y GitHub Actions.
+- Flujos de desarrollo con agentes de código (spec, plan y gates antes de tocar main).
 
-- 🔭 I’m currently working on https://github.com/Ivrogo/ToDoAPIRest 
-- 🌱 I’m currently learning More Python 
-- 📫 How to reach me: ivrogobusiness@gmail.com
+📦 **Proyectos destacados**
+- [video-autoedit](https://github.com/Ivrogo/video-autoedit): subes un vídeo en bruto a Google Drive y vuelve editado, con silencios cortados, subtítulos con Whisper y audio masterizado, todo sobre GitHub Actions.
 
+📚 **Playbooks** (cómo lo hacemos, con casos y código): [ivrogo.com/playbooks](https://ivrogo.com/playbooks)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ivrogo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ivrogo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dkntz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rodriguezgomezivan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dknt123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ivrogo.com)  
+🛠️ **Stack:** Python · PyTorch · TypeScript · Next.js · n8n · Docker · GitHub Actions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivrogo)](https://github.com/anuraghazra/github-readme-stats)
-
+📫 [ivrogo.com](https://ivrogo.com) · [LinkedIn](https://www.linkedin.com/in/ivrogo/) · [Contacto](https://ivrogo.com/#contact)
