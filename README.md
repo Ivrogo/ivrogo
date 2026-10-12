@@ -12,6 +12,7 @@ Ingeniero de IA y ML. Construyo agentes de IA y automatizaciones que llegan a pr
 
 📦 **Proyectos destacados**
 - [video-autoedit](https://github.com/Ivrogo/video-autoedit): subes un vídeo en bruto a Google Drive y vuelve editado, con silencios cortados, subtítulos con Whisper y audio masterizado, todo sobre GitHub Actions.
+- [agentcost](https://github.com/Ivrogo/agentcost): coste por tarea resuelta y comparación A/B de agentes a partir de trazas (Python, MIT)
 
 📚 **Playbooks** (cómo lo hacemos, con casos y código): [ivrogo.com/playbooks](https://ivrogo.com/playbooks)
 
